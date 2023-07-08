@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhairya Maheshwari</h1>
 <h3 align="center">2nd year Computer Science Engineering Student</h3>
 
-<img align="right" alt="coding" width="200" src="https://miro.medium.com/max/1272/0*BLwJcjZxounn0T8D.gif">
+<img align="right" alt="coding" width="150" src="https://miro.medium.com/max/1272/0*BLwJcjZxounn0T8D.gif">
 
 
 
