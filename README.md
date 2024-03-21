@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Studying in [Maharishi Markendeshwar(Deemed to be University)](https://www.mmumullana.org/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **dhairyamaheshwari222@gmail.com**
 
