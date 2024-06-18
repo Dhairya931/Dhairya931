@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairya Maheshwari</h1>
-<h3 align="center">2nd year Computer Science And Engineering Student</h3>
+<h3 align="center">3rd year Computer Science And Engineering Student</h3>
 
 <img align="right" alt="coding" width="150" src="https://miro.medium.com/max/1272/0*BLwJcjZxounn0T8D.gif">
 
